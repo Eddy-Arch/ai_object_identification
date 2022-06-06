@@ -23,4 +23,4 @@ model
 ### example
 
 here is an example of some output that the model generates, given an image with identifiable objects in it.
-![Example](processed_images/example1.png "Example")
+![Example](processed_images/example4.png "Example")
